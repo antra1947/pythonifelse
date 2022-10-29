@@ -1,0 +1,33 @@
+#if condition :
+
+a = 3
+
+b = 7
+
+if ( a < b):
+           print ('7 is greater  than 3')
+           
+           # short hand if condition 
+
+if(9>6):    print('9 is greater than  6')
+
+# short hand if-else   condition: 
+ 
+ k = 55
+ 
+ l= 33
+ 
+ print ('k') if k > l else print ('l')
+
+ #and  and  or keyword 
+
+q = 45
+
+r = 36
+
+s = 26
+
+if(q < r and  q < s ):
+   
+   print('both are true')
+
